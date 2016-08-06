@@ -5776,8 +5776,6 @@
   
   var _shared2 = _interopRequireDefault(_shared);
   
-  var _index = __webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"./index.md\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
-  
   var _styles = __webpack_require__(312);
   
   var _styles2 = _interopRequireDefault(_styles);
@@ -5855,7 +5853,7 @@
     (0, _createClass3.default)(Page, [{
       key: 'componentDidMount',
       value: function componentDidMount() {
-        document.title = _index.title;
+        document.title = 'shared matting';
   
         var canvas = document.getElementById('matting-canvas');
         this.runner = new _shared2.default(canvas);
@@ -56639,4 +56637,4 @@
 
 /***/ }
 /******/ ]);
-//# sourceMappingURL=main.js.map?96f7729ba15b26165796
+//# sourceMappingURL=main.js.map?ca71fdcd194ee946349e
