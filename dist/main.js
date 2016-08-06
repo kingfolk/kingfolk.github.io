@@ -35059,6 +35059,7 @@
   // Find and render a web page matching the current URL path,
   // if such page is not found then render an error page (see routes.json, core/router.js)
   function render(location) {
+    console.log('routes');
     console.log(routes);
     _router2.default.resolve(routes, location).then(renderComponent).catch(function (error) {
       return _router2.default.resolve(routes, (0, _extends3.default)({}, location, { error: error })).then(renderComponent);
@@ -56638,4 +56639,4 @@
 
 /***/ }
 /******/ ]);
-//# sourceMappingURL=main.js.map?ae3c1dcfdbebf1bd2077
+//# sourceMappingURL=main.js.map?7efd193e803b45f91cb5
