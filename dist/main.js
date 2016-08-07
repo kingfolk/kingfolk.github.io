@@ -73,7 +73,7 @@
 /******/ 			script.charset = 'utf-8';
 /******/ 			script.async = true;
 /******/
-/******/ 			script.src = __webpack_require__.p + "" + chunkId + ".js?" + {"1":"f043af497f00e5b82882","2":"3d6d200298428e0b041b","3":"2916fea0eddbd76f4066"}[chunkId] + "";
+/******/ 			script.src = __webpack_require__.p + "" + chunkId + ".js?" + {"1":"f043af497f00e5b82882","2":"13717ffba5f33c9dc630","3":"2916fea0eddbd76f4066"}[chunkId] + "";
 /******/ 			head.appendChild(script);
 /******/ 		}
 /******/ 	};
@@ -4195,8 +4195,6 @@
     }, {
       key: 'render',
       value: function render() {
-        console.log('this.props: ');
-        console.log(this);
         return _react2.default.createElement(
           _Layout2.default,
           null,
@@ -5950,7 +5948,6 @@
     }, {
       key: 'onDropImage',
       value: function onDropImage(file) {
-        console.log(file);
         this.setState({
           image: file
         });
@@ -7836,7 +7833,6 @@
   
         var links = ['github', 'demo', 'blog'];
         var res = [];
-        console.log(this.props.links);
         _lodash2.default.each(links, function (link) {
           var to = _this2.props.links[link];
           if (to) {
@@ -8117,7 +8113,6 @@
         gl.viewport(0, 0, this.viewSize[0], this.viewSize[1]);
   
         var offset = new Float32Array([canvasScale.ol, canvasScale.ot]);
-        console.log(offset);
         this.programs.copy.use().attrib('quad', this.buffers.quad, 2).uniformi('state', 0).uniform('scale', this.viewSize).uniform('offset', offset).draw(gl.TRIANGLE_STRIP, 4);
   
         return this;
@@ -34540,7 +34535,6 @@
     }, {
       key: 'render',
       value: function render() {
-        console.log(this.props);
         return _react2.default.createElement(
           'header',
           { className: 'mdl-layout__header mdl-layout__header--waterfall ' + _Header2.default['portfolio-header'], ref: 'root' },
@@ -35068,7 +35062,9 @@
   
   // Handle client-side navigation by using HTML5 History API
   // For more information visit https://github.com/ReactJSTraining/history/tree/master/docs#readme
-  _history2.default.listen(render);
+  _history2.default.listen(function (l) {
+    render(l);
+  });
   render(_history2.default.getCurrentLocation());
   
   // Eliminates the 300ms delay between a physical tap
@@ -56639,4 +56635,4 @@
 
 /***/ }
 /******/ ]);
-//# sourceMappingURL=main.js.map?7efd193e803b45f91cb5
+//# sourceMappingURL=main.js.map?e5aa722477db1727bf9c

@@ -146,7 +146,6 @@ webpackJsonp([2],{
     }, {
       key: 'render',
       value: function render() {
-        console.log(_styles2.default);
         return _react2.default.createElement(
           _Layout2.default,
           null,
@@ -521,4 +520,4 @@ webpackJsonp([2],{
 /***/ }
 
 });
-//# sourceMappingURL=2.js.map?3d6d200298428e0b041b
+//# sourceMappingURL=2.js.map?13717ffba5f33c9dc630
