@@ -33,7 +33,7 @@ webpackJsonp([2],{
   
   var _react2 = _interopRequireDefault(_react);
   
-  var _Layout = __webpack_require__(92);
+  var _Layout = __webpack_require__(91);
   
   var _Layout2 = _interopRequireDefault(_Layout);
   
@@ -520,4 +520,4 @@ webpackJsonp([2],{
 /***/ }
 
 });
-//# sourceMappingURL=2.js.map?13717ffba5f33c9dc630
+//# sourceMappingURL=2.js.map?50dd29a96313b954e727
