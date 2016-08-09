@@ -7840,15 +7840,29 @@
         _lodash2.default.each(links, function (link) {
           var to = _this2.props.links[link];
           if (to) {
-            var row = _react2.default.createElement(
-              _Link2.default,
-              { className: 'mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent',
-                to: to },
-              _lodash2.default.capitalize(link)
-            );
+            var row = void 0;
+            if (link == 'github') {
+              row = _react2.default.createElement(
+                'a',
+                { className: 'mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent',
+                  href: to },
+                _lodash2.default.capitalize(link)
+              );
+            } else {
+              row = _react2.default.createElement(
+                _Link2.default,
+                { className: 'mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent',
+                  to: to },
+                _lodash2.default.capitalize(link)
+              );
+            }
             res.push(row);
           }
         });
+  
+        // let github = this.props.links['github'],
+        //   demo = this.props.links['demo'],
+        //
   
         return res;
       }
@@ -56635,4 +56649,4 @@
 
 /***/ }
 /******/ ]);
-//# sourceMappingURL=main.js.map?2e77ed5cd7ee2eed51cd
+//# sourceMappingURL=main.js.map?00d285531b8ec85e4596
