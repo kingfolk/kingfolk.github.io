@@ -1,6 +1,6 @@
 webpackJsonp([2],{
 
-/***/ 107:
+/***/ 108:
 /***/ function(module, exports, __webpack_require__) {
 
   'use strict';
@@ -493,8 +493,8 @@ webpackJsonp([2],{
   	"./education.json": 190,
   	"./epfl-logo.jpg": 742,
   	"./fiksu-logo.jpg": 743,
-  	"./index": 107,
-  	"./index.js": 107,
+  	"./index": 108,
+  	"./index.js": 108,
   	"./index.md": 321,
   	"./nuim-logo.gif": 744,
   	"./pryv-logo.png": 745,
@@ -520,4 +520,4 @@ webpackJsonp([2],{
 /***/ }
 
 });
-//# sourceMappingURL=2.js.map?50dd29a96313b954e727
+//# sourceMappingURL=2.js.map?8195040f8c7a9947c049
