@@ -34644,7 +34644,7 @@
   
       var _this = (0, _possibleConstructorReturn3.default)(this, (0, _getPrototypeOf2.default)(Navigation).call(this));
   
-      _this.links = new _map2.default().set('Home', '/').set('Resume', '/resume').set('Random Photo', '/photo').set('Contact', '/contact');
+      _this.links = new _map2.default().set('Home', '/').set('Resume', '/resume').set('Random Photo', '/photo').set('Contact', '/shared_matting_webgl');
   
       return _this;
     }
@@ -56631,4 +56631,4 @@
 
 /***/ }
 /******/ ]);
-//# sourceMappingURL=main.js.map?c3d3799810deb1b2818f
+//# sourceMappingURL=main.js.map?fba338671c36e3a61b8f
