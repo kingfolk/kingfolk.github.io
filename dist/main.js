@@ -4090,7 +4090,12 @@
     }, {
       key: 'render',
       value: function render() {
-        return _react2.default.createElement('div', (0, _extends3.default)({ className: _Layout2.default.content }, this.props));
+        return _react2.default.createElement(
+          'div',
+          null,
+          _react2.default.createElement(_Header2.default, null),
+          _react2.default.createElement('div', (0, _extends3.default)({ className: _Layout2.default.content }, this.props))
+        );
       }
     }]);
     return Layout;
@@ -35986,7 +35991,11 @@
           _react2.default.createElement(
             'div',
             { className: 'mdl-layout__header-row ' + _Header2.default['portfolio-navigation-row'] + ' mdl-layout--large-screen-only' },
-            _react2.default.createElement(_Navigation2.default, null)
+            _react2.default.createElement(
+              'h3',
+              null,
+              'NOTE: This site is being maintained... 此页在维护中...'
+            )
           )
         );
       }
@@ -68237,4 +68246,4 @@
 
 /***/ }
 /******/ ]);
-//# sourceMappingURL=main.js.map?33569a5bf17df87cc025
+//# sourceMappingURL=main.js.map?91eb5eb736e2db830f59
