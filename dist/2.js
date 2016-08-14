@@ -1,6 +1,6 @@
 webpackJsonp([2],{
 
-/***/ 111:
+/***/ 112:
 /***/ function(module, exports, __webpack_require__) {
 
   'use strict';
@@ -9,49 +9,49 @@ webpackJsonp([2],{
     value: true
   });
   
-  var _getPrototypeOf = __webpack_require__(22);
+  var _getPrototypeOf = __webpack_require__(18);
   
   var _getPrototypeOf2 = _interopRequireDefault(_getPrototypeOf);
   
-  var _classCallCheck2 = __webpack_require__(19);
+  var _classCallCheck2 = __webpack_require__(15);
   
   var _classCallCheck3 = _interopRequireDefault(_classCallCheck2);
   
-  var _createClass2 = __webpack_require__(20);
+  var _createClass2 = __webpack_require__(16);
   
   var _createClass3 = _interopRequireDefault(_createClass2);
   
-  var _possibleConstructorReturn2 = __webpack_require__(24);
+  var _possibleConstructorReturn2 = __webpack_require__(20);
   
   var _possibleConstructorReturn3 = _interopRequireDefault(_possibleConstructorReturn2);
   
-  var _inherits2 = __webpack_require__(23);
+  var _inherits2 = __webpack_require__(19);
   
   var _inherits3 = _interopRequireDefault(_inherits2);
   
-  var _react = __webpack_require__(8);
+  var _react = __webpack_require__(6);
   
   var _react2 = _interopRequireDefault(_react);
   
-  var _Layout = __webpack_require__(83);
+  var _Layout = __webpack_require__(68);
   
   var _Layout2 = _interopRequireDefault(_Layout);
   
-  var _index = __webpack_require__(330);
+  var _index = __webpack_require__(332);
   
-  var _styles = __webpack_require__(320);
+  var _styles = __webpack_require__(324);
   
   var _styles2 = _interopRequireDefault(_styles);
   
-  var _education = __webpack_require__(196);
+  var _education = __webpack_require__(197);
   
   var _education2 = _interopRequireDefault(_education);
   
-  var _works = __webpack_require__(197);
+  var _works = __webpack_require__(198);
   
   var _works2 = _interopRequireDefault(_works);
   
-  var _lodash = __webpack_require__(104);
+  var _lodash = __webpack_require__(93);
   
   var _lodash2 = _interopRequireDefault(_lodash);
   
@@ -77,7 +77,7 @@ webpackJsonp([2],{
             _react2.default.createElement(
               'div',
               { className: 'section__circle-container__circle' },
-              _react2.default.createElement('img', { className: _styles2.default['logo-image'], src: __webpack_require__(775)(this.props.logo) })
+              _react2.default.createElement('img', { className: _styles2.default['logo-image'], src: __webpack_require__(777)(this.props.logo) })
             )
           ),
           _react2.default.createElement(
@@ -340,7 +340,7 @@ webpackJsonp([2],{
 
 /***/ },
 
-/***/ 196:
+/***/ 197:
 /***/ function(module, exports) {
 
   module.exports = [
@@ -372,7 +372,7 @@ webpackJsonp([2],{
 
 /***/ },
 
-/***/ 197:
+/***/ 198:
 /***/ function(module, exports) {
 
   module.exports = [
@@ -396,16 +396,16 @@ webpackJsonp([2],{
 
 /***/ },
 
-/***/ 320:
+/***/ 324:
 /***/ function(module, exports, __webpack_require__) {
 
   // style-loader: Adds some css to the DOM by adding a <style> tag
   
   // load the styles
-  var content = __webpack_require__(592);
+  var content = __webpack_require__(594);
   if(typeof content === 'string') content = [[module.id, content, '']];
   // add the styles to the DOM
-  var update = __webpack_require__(64)(content, {});
+  var update = __webpack_require__(67)(content, {});
   if(content.locals) module.exports = content.locals;
   // Hot Module Replacement
   if(false) {
@@ -423,17 +423,17 @@ webpackJsonp([2],{
 
 /***/ },
 
-/***/ 330:
+/***/ 332:
 /***/ function(module, exports) {
 
   module.exports = {"title":"About Us","html":"<h2>Cadme comitum fecere</h2>\n<p>Lorem markdownum velis auras figuram spes solebat spectabat, cum alium,\nplenissima aratri visae herbarum in corpore silvas consumpta. Subito virgae nec\nparatae flexit et niveae repperit erat paratu cum albis steterat conclamat hic!</p>\n<p>Nocte suae ligat! <em>Si</em> nitidum pervia, illa tua, ab minimo pasci dabitur? In\nfictus concurreret pennis, illis cum accipe rogavi in et nostro cum lacertis\nhostibus ab saxo ne. Genibusque vixque; sine videt terribili lucos ipsum vobis\nresque, et suum pietatis fulvis, est velle. Semele oscula ferat frigidus mactata\nmontes, es me parari, piae.</p>\n<h2>Inflataque ait leves frigida</h2>\n<p>Letum per ipsa nostro animae, mari illuc in levi corpus aestibus excussam\ndeflentem sic cuius. Venere dedit illa cui in quo senecta artus bella inficit,\nAchaica. Videbatur crinem resonantia alto dea umida dicitur igne; meus signa\nhabet; est. Cognovit coepta: similes fugis: habuissem votivi liquida: ictus visi\nnostra me Adoni.</p>\n<h2>Laedar cum margine quoque</h2>\n<p>Quam dato ullis, acer venturi volantes! Tuam non non cursu acta hic, novem\nnutrit, in sidera viscera iam fontes tempora, omnes. Saturnius artus inquit,\nconatoque erectos lenius, carinae, ora est infamia elige per Medusaei induitur.\nQuem quem ab postquam tunc frondescere nodis capiam labique. Voluere luce\nSemeles.</p>\n<pre><code>    if (delete(digital, hibernateSoft, dynamicExcelVpn) &gt; io_secondary_led /\n            <span class=\"hljs-number\">84</span>) {\n        disk = load;\n        orientationPci.matrix_laptop(modelSsdTweet);\n    } else {\n        kdeEmoticonLed.mebibyte_algorithm_domain(<span class=\"hljs-number\">2</span>,\n                hackerCtr.rom_iso_desktop.scarewarePrimaryBankruptcy(station,\n                disk_mask_matrix, restore_crt));\n        cameraSpyware(<span class=\"hljs-number\">4</span>, multitasking(<span class=\"hljs-number\">-3</span>, log_dfs_controller));\n        menuCisc.swappable -= w(mount_vle_unicode, <span class=\"hljs-number\">5</span>);\n    }\n    var optic_spider = newbieFunctionThick(<span class=\"hljs-number\">-3</span>, esportsKbpsUnix);\n    var dvd_ctp_resolution = dithering;\n</code></pre>\n<h2>Usus fixurus illi petunt</h2>\n<p>Domosque tune amas mihi adhuc et <em>alter per</em> suasque versavitque iners\ncrescentemque nomen verba nunc. Acervos hinc natus si habet. Et cervix imago\nquod! Arduus dolet!</p>\n<pre><code>    cpcDdrCommand.window(moodleAlpha, im, server_alpha.doubleVrmlMonochrome(\n            iosBar - -<span class=\"hljs-number\">2</span>, white_dual, ad(<span class=\"hljs-number\">2</span>, <span class=\"hljs-number\">94</span>, <span class=\"hljs-number\">83</span>)));\n    mbps_typeface_publishing.bit.host_flash_capacity(click(<span class=\"hljs-number\">90</span>,\n            cyberspace_srgb_pup - mpeg, marketing_trackback +\n            table_plagiarism_domain));\n    syn_e = powerExtension * defragmentNntpOsd(alertOutputNode(pop,\n            pageResponsiveDrive));\n    <span class=\"hljs-function\"><span class=\"hljs-keyword\">method</span> -= <span class=\"hljs-title\">switch_newsgroup_flaming</span>;</span>\n</code></pre>\n<p>Aliquid mansura arida altismunera <strong>in illi</strong>. Dignus vir pontum <em>crimen\nversabat</em> carpunt omnes rotis Canentem erant in Oebalio, et manu senecta\niungere. Prima diurnis!</p>\n"};
 
 /***/ },
 
-/***/ 592:
+/***/ 594:
 /***/ function(module, exports, __webpack_require__) {
 
-  exports = module.exports = __webpack_require__(61)();
+  exports = module.exports = __webpack_require__(64)();
   // imports
   
   
@@ -450,58 +450,58 @@ webpackJsonp([2],{
 
 /***/ },
 
-/***/ 766:
+/***/ 768:
 /***/ function(module, exports, __webpack_require__) {
 
   module.exports = __webpack_require__.p + "2041805d7efa9ac7f0541cba2bcde8c3.jpg";
 
 /***/ },
 
-/***/ 767:
+/***/ 769:
 /***/ function(module, exports, __webpack_require__) {
 
   module.exports = __webpack_require__.p + "ed684265b4d7577642a93d0be6aa5561.jpg";
 
 /***/ },
 
-/***/ 768:
+/***/ 770:
 /***/ function(module, exports) {
 
   module.exports = "data:image/gif;base64,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"
 
 /***/ },
 
-/***/ 769:
+/***/ 771:
 /***/ function(module, exports, __webpack_require__) {
 
   module.exports = __webpack_require__.p + "391b39fdffc7a80d9320a87722beb221.png";
 
 /***/ },
 
-/***/ 770:
+/***/ 772:
 /***/ function(module, exports, __webpack_require__) {
 
   module.exports = __webpack_require__.p + "49bb84dacb66d496ec7439ca67fdca9e.jpg";
 
 /***/ },
 
-/***/ 775:
+/***/ 777:
 /***/ function(module, exports, __webpack_require__) {
 
   var map = {
-  	"./education": 196,
-  	"./education.json": 196,
-  	"./epfl-logo.jpg": 766,
-  	"./fiksu-logo.jpg": 767,
-  	"./index": 111,
-  	"./index.js": 111,
-  	"./index.md": 330,
-  	"./nuim-logo.gif": 768,
-  	"./pryv-logo.png": 769,
-  	"./styles.css": 320,
-  	"./works": 197,
-  	"./works.json": 197,
-  	"./zju-logo.jpg": 770
+  	"./education": 197,
+  	"./education.json": 197,
+  	"./epfl-logo.jpg": 768,
+  	"./fiksu-logo.jpg": 769,
+  	"./index": 112,
+  	"./index.js": 112,
+  	"./index.md": 332,
+  	"./nuim-logo.gif": 770,
+  	"./pryv-logo.png": 771,
+  	"./styles.css": 324,
+  	"./works": 198,
+  	"./works.json": 198,
+  	"./zju-logo.jpg": 772
   };
   function webpackContext(req) {
   	return __webpack_require__(webpackContextResolve(req));
@@ -514,10 +514,10 @@ webpackJsonp([2],{
   };
   webpackContext.resolve = webpackContextResolve;
   module.exports = webpackContext;
-  webpackContext.id = 775;
+  webpackContext.id = 777;
 
 
 /***/ }
 
 });
-//# sourceMappingURL=2.js.map?714aff88c66d4f358e61
+//# sourceMappingURL=2.js.map?c543392dd6b881f93e84
