@@ -1,5 +1,26 @@
 {
   "main": {
-    "js": "/dist/main.js?22d1e78c59a2d001fde9"
+    "js": "/dist/main.js?e97a5e6381a1d71773cc"
+  },
+  "": {
+    "jpg": [
+      "/dist/49bb84dacb66d496ec7439ca67fdca9e.jpg",
+      "/dist/1c38155a29f918a6fc4e4b7d1d45ce69.jpg",
+      "/dist/2041805d7efa9ac7f0541cba2bcde8c3.jpg",
+      "/dist/ed684265b4d7577642a93d0be6aa5561.jpg",
+      "/dist/cac57fcdb0f7a6d7f10781d6f23130d4.jpg",
+      "/dist/24743b1457825f8ad4df9922775b2d23.jpg",
+      "/dist/eb807575dbe1d5c8eafb38cef21850e3.jpg",
+      "/dist/09f64b58cede10c1941b990bb9da1079.jpg"
+    ],
+    "png": [
+      "/dist/378d4c6004f9f2c4a7717120a71ed982.png",
+      "/dist/391b39fdffc7a80d9320a87722beb221.png"
+    ],
+    "js": [
+      "/dist/1.js?a0c40e9c21ef6d907e62",
+      "/dist/2.js?93774b0878b2bd339f34",
+      "/dist/3.js?8d4edf60eef8253733ba"
+    ]
   }
 }
